@@ -1,0 +1,71 @@
+Version 12
+[x] Each todo should have its own edit button 
+[x] The edit buttons should actually work
+[x] If someone hits cancel, we should do nothing
+[x] If someone hits OK and the field is empty, we should do nothing
+
+Version 11
+[x] Each todo should have its own toggle button
+[x] The toggle buttons should actually work
+
+
+Version 10
+[x] Each todo should have its own remove button
+[x] The remove buttons should actually work
+
+
+Version 9
+[x] There should be an li for each todo
+[x] Each li should show todoText property
+[x] Each li should show completed property
+
+
+Version 8
+[x] There should be a working button for adding a todo
+[x] There should be a working button for editing a todo
+[x] There should be a working button for removing a todo
+[x] There should be a working button for toggling a todo
+
+Version 7
+[x] It should have a button for displaying todos
+[x] The display button should run the displayTodos function
+[x] It should have toggle all button
+[x] Toggle all button should run toggleAll function
+
+
+Version 6
+[x] Should have a function for toggling all items
+[x] If everything is false ==> change everything to true
+[x] if everything is true ==> change everything to false
+[x] if mixed ==> change everything to true
+
+
+Version 5
+[x] It should have a function to display todos
+[x] Displaytodos function should show the todoText property 
+[x] Displaytodos function should show the completed property
+
+
+Version 4
+[x] We want to have a function to toggle a todo
+
+
+Version 3
+[x] Redo todos initialization to object type
+[x] Redo add function to add objects to array 
+[x] Redo edit function to edit objects
+
+
+Version 2
+[x] It should have a function to add a todo
+[x] It should have a function to edit a todo
+[x] It should have a function to remove a todo
+
+
+
+Version 1
+[x] should have a place to store todos
+[x] it shout have a way to display todos
+[x] it should have a way to add todo
+[x] it should have a way to edit todo
+[x] it should have a way to delete todo
